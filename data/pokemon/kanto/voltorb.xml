@@ -31,9 +31,9 @@
 		<flag canwalkonenergy="0" />
 		<flag canwalkonfire="0" />
 	</flags>
-	<moves>
+	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-20" />
-	</moves>
+	</attacks>
 	<defenses armor="10" defense="10" />
 	<elements>
 		<element firePercent="-10" />
