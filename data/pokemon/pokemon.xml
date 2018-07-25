@@ -70,7 +70,7 @@
 	<pokemon name="Machoke" region="kanto" file="machoke.xml" />
 	<pokemon name="Machamp" region="kanto" file="machamp.xml" />
 	<pokemon name="Bellsprout" region="kanto" file="bellsprout.xml" />
-	<pokemon name="Weepinbell" region="kanto" file="wepinbell.xml" />
+	<pokemon name="Weepinbell" region="kanto" file="weepinbell.xml" />
 	<pokemon name="Victreebel" region="kanto" file="victreebel.xml" />
 	<pokemon name="Tentacool" region="kanto" file="tentacool.xml" />
 	<pokemon name="Tentacruel" region="kanto" file="tentacruel.xml" />
@@ -83,7 +83,7 @@
 	<pokemon name="Slowbro" region="kanto" file="slowbro.xml" />
 	<pokemon name="Magnemite" region="kanto" file="magnemite.xml" />
 	<pokemon name="Magneton" region="kanto" file="magneton.xml" />
-	<pokemon name="Farfetch'd" region="kanto" file="farfetch.xml" />
+	<pokemon name="Farfetch'd" region="kanto" file="farfetchd.xml" />
 	<pokemon name="Doduo" region="kanto" file="doduo.xml" />
 	<pokemon name="Dodrio" region="kanto" file="dodrio.xml" />
 	<pokemon name="Seel" region="kanto" file="seel.xml" />
@@ -122,7 +122,7 @@
 	<pokemon name="Seaking" region="kanto" file="seaking.xml" />
 	<pokemon name="Staryu" region="kanto" file="staryu.xml" />
 	<pokemon name="Starmie" region="kanto" file="starmie.xml" />
-	<pokemon name="Mr. Mime" region="kanto" file="mr mime.xml" />
+	<pokemon name="Mr. Mime" region="kanto" file="mr_mime.xml" />
 	<pokemon name="Scyther" region="kanto" file="scyther.xml" />
 	<pokemon name="Jynx" region="kanto" file="jynx.xml" />
 	<pokemon name="Electabuzz" region="kanto" file="electabuzz.xml" />

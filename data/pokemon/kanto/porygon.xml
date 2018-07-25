@@ -5,10 +5,6 @@
 	<targetchange interval="4000" chance="0" />
 	<portrait id="2503" />
 	<icon charged="26541" discharged="26762" />
-	<genders>
-		<gender name="male" percentage="50" />
-		<gender name="female" percentage="50" />
-	</genders>
 	<basestats>
 		<hp value= "65" />
 		<attack value="60" />
